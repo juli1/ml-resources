@@ -31,7 +31,7 @@
 
  - linear transformation is a function that takes a vector as input and produces a vector as output
  
- ![Matrix Multiplication](imgs/matrix-multiplication1.png "Matrix Multiplication"
+ ![Matrix Multiplication](imgs/matrix-multiplication1.png "Matrix Multiplication")
  
  
 ## Video 4: Matrix Multiplication as Composition
