@@ -17,3 +17,8 @@
 
  - [Class page](https://atcold.github.io/NYU-DLSP20/)
    - [French Version](https://lbourdois.github.io/cours-dl-nyu/)
+
+
+### Misc
+
+ - [Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U)
